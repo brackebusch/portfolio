@@ -1,7 +1,7 @@
 {
-  "main.css": "/portfolio/static/css/main.1d4b167a.chunk.css",
-  "main.js": "/portfolio/static/js/main.2f2e64d6.chunk.js",
-  "main.js.map": "/portfolio/static/js/main.2f2e64d6.chunk.js.map",
+  "main.css": "/portfolio/static/css/main.7a758d4c.chunk.css",
+  "main.js": "/portfolio/static/js/main.a31ad4b4.chunk.js",
+  "main.js.map": "/portfolio/static/js/main.a31ad4b4.chunk.js.map",
   "static/js/1.229fca68.chunk.js": "/portfolio/static/js/1.229fca68.chunk.js",
   "static/js/1.229fca68.chunk.js.map": "/portfolio/static/js/1.229fca68.chunk.js.map",
   "runtime~main.js": "/portfolio/static/js/runtime~main.ee2a1003.js",
@@ -36,8 +36,8 @@
   "static/media/halloween-black-cat.svg": "/portfolio/static/media/halloween-black-cat.8997fc13.svg",
   "static/media/coffee-cup-of-hot-drink-black-silhouette.svg": "/portfolio/static/media/coffee-cup-of-hot-drink-black-silhouette.81d85e3e.svg",
   "static/media/App.scss": "/portfolio/static/media/triangle.ca1e7e62.svg",
-  "static/css/main.1d4b167a.chunk.css.map": "/portfolio/static/css/main.1d4b167a.chunk.css.map",
+  "static/css/main.7a758d4c.chunk.css.map": "/portfolio/static/css/main.7a758d4c.chunk.css.map",
   "index.html": "/portfolio/index.html",
-  "precache-manifest.10b7c38613cfaec4fae682e8ee737186.js": "/portfolio/precache-manifest.10b7c38613cfaec4fae682e8ee737186.js",
+  "precache-manifest.b528b6743525340baf19ef1cab68b7dc.js": "/portfolio/precache-manifest.b528b6743525340baf19ef1cab68b7dc.js",
   "service-worker.js": "/portfolio/service-worker.js"
 }
