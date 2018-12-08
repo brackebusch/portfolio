@@ -72,7 +72,7 @@ export default class WorkExperience extends Component {
             Software development course with 3% acceptance rate according to rigorous testing and admissions requirements. Over 1,000 hours of intensive study and production, with a focus on full stack web development. Considered nationally to be an elite coding school.
           </li>
           <li>
-          Very positive experience. While I had been coding for quite a few years before entering, that was sort of the point with the program. You are only admitted after passing coding challenges (live demo and all). Because of this high bar the acceptance rate is quite low, but the quality of education and caliber of students is excellent. It was a ridiculous amount of work and massive commitment averaging 90 hours a week. However, I came out on the other side a stronger developer and better equipped to tackle real world challenges. 10/10
+          Very positive experience. While I had been coding for quite a few years before entering, that was sort of the point with the program. One is only admitted after passing a series of coding challenges (live demos and all). Because of the high bar the acceptance rate is quite low, but the quality of education and caliber of students is excellent. It was a ridiculous amount of work and massive commitment averaging 90 hours a week. However, I came out on the other side a stronger developer and better equipped to tackle real world challenges. 10/10
           </li>
         </ul>
       </CSSTransition>

@@ -72,20 +72,22 @@ button {
   background-color: #2c3e50;
   color: white;
   border: 1px solid #2c3e50;
-  margin: 1vh;
   padding: 10px;
   font-size: calc(10px + 1vmin);
-  transition: all 0.5s ease 0s;
+  transition: all 0.75s ease 0s;
   &:hover {
     background-color: white;
     color: #2c3e50;
-    transition: all 0.5s ease 0s;
+  transition: all 0.5s ease 0s;
   }
   &:focus,
   &:active {
 		outline:none;
   }
+}
 
+.margin {
+  margin: 0 0 2vh 0;
 }
 
 .light-border {
@@ -212,8 +214,6 @@ button {
 
 .inner {
   max-width: 1000px;
-  margin: 2.5vmin;
-  height: auto;
   padding: 2vw;
   text-align: left;
   font-size: calc(10px + 1vmin);
@@ -258,6 +258,11 @@ button {
     box-shadow: 0 5px 15px rgba(0, 0, 0, 0.3);
     cursor: pointer;
   }
+}
+
+.experience h5:first-of-type{
+  font-style: normal;
+  font-size: calc(10px + .8vmin);
 }
 
 li {
