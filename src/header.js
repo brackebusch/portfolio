@@ -28,22 +28,3 @@ export default function Header(){
   )
 }
 
-{/* <div class="grid__item color-2">
-<a class="link link--surinami" href="#"><span data-letters-l="Suri" data-letters-r="nami">Surinami</span></a>
-</div> */}
-
-      {/* <a target="_blank" href="https://github.com/brackebusch"><i class="fab fa-github"></i></a>
-      <a target="_blank" href="https://www.linkedin.com/in/kyle-brackebusch"><i class="fab fa-linkedin"></i></a> */}
-      
-      
-          {/* <h3 className='upbeat'>Positive Attitude</h3>
-          <h3 className='energy'>High Energy</h3>
-          <h3 className='starter'>Self-Starter</h3>
-        <h2 className='engineer'>Software Engineer</h2> */}
-
-        
-            // {/* and raises the bar by consistently pushing out quality code (try saying that 10x fast! =). Programming is more than a job for me, it’s a passion of mine, and I take great pride in my work. I am fullstack through and through. I get excited when tasked with producing high caliber bug free code at quick pace, and take great satisfaction in designing and building out products which provide business value. */}
-
-            // // I bring a diverse background to the table, but I believe the most valuable thing I have to offer to any employer is integrity in my work and a heart fully invested in both my colleagues and my company.
-
-

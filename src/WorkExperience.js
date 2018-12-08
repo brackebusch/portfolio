@@ -59,7 +59,7 @@ export default class WorkExperience extends Component {
     <div className="experience" onClick={() => this.setState({academy: !this.state.academy})}>
         <h4>Computer Science</h4>
         <h5>App Academy</h5>
-        <h5>December 17' - April 17'</h5>
+        <h5>December 17' - April 18'</h5>
       <CSSTransition
             in={this.state.academy}
             timeout={300}
@@ -144,7 +144,7 @@ export default class WorkExperience extends Component {
       >
       <ul>
         <li>
-          Most friendly and helpful flight attendant ever to serve your Diet Coke.
+          Most friendly and helpful flight attendant ever to serve you a Diet Coke.
         </li>
       </ul>
       </CSSTransition>
