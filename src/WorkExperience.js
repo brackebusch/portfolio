@@ -24,7 +24,7 @@ export default class WorkExperience extends Component {
     <div className="experience" onClick={() => this.setState({league: !this.state.league})}>
         <h4>Full Stack Developer</h4>
         <h5>The League</h5>
-        <h5>May 18' - September 18' (Contract)</h5>
+        <h5>May 2018 - September 2018 (Contract)</h5>
       <CSSTransition
             in={this.state.league}
             timeout={300}
@@ -81,7 +81,7 @@ export default class WorkExperience extends Component {
     <div className="experience" onClick={() => this.setState({robertHalf: !this.state.robertHalf})}>
         <h4>Technical Recruiter</h4>
         <h5>Robert Half</h5>
-        <h5>August 17' - December 17'</h5>
+        <h5>August 2017 - December 2017</h5>
       <CSSTransition
             in={this.state.robertHalf}
             timeout={300}
@@ -109,7 +109,7 @@ export default class WorkExperience extends Component {
     <div className="experience" onClick={() => this.setState({verizon: !this.state.verizon})}>
         <h4>Sales Representative</h4>
         <h5>Verizon Wireless</h5>
-        <h5>June 14' - August 17'</h5>
+        <h5>July 2014 - August 2017</h5>
       <CSSTransition
             in={this.state.verizon}
             timeout={300}
@@ -134,7 +134,7 @@ export default class WorkExperience extends Component {
     <div className="experience" onClick={() => this.setState({united: !this.state.united})}>
         <h4>Flight Attendant</h4>
         <h5>United Airlines</h5>
-        <h5>June 14' - August 17'</h5>
+        <h5>September 2012 - July 2014</h5>
       <CSSTransition
             in={this.state.united}
             timeout={300}
